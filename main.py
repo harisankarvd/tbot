@@ -9,7 +9,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Constants
-TOKEN = '8051065968:AAHNC7qlJoMnxu5MP10O-xeQ8HZGHNV-LaU'  # Replace with your actual bot token
+TOKEN = ''  # Replace with your actual bot token
 DB = 'db.sqlite'
 QR_IMAGE = 'https://t.me/plinkkkkkkkkk/2'  # Replace with actual QR image
 
